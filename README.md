@@ -31,8 +31,11 @@ A full-stack Student Management System built using ASP.NET Core Web API (.NET 8)
 ## Project Structure
 
 student-management-system/
+
 ├── backend/   # ASP.NET Core Web API
+
 ├── frontend/  # Angular application
+
 └── README.md
 
 ## Setup Instructions
